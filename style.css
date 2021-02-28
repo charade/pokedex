@@ -435,3 +435,8 @@ body {
 .fairy {
   background: #F9AEFF;
 }
+
+/******************** added ***************************/
+.selected{
+  border : 2px solid green;
+}
